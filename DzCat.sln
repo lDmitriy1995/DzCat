@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzCat", "DzCat\DzCat.csproj", "{AECECB39-46EA-449E-9D9A-797A94025BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECECB39-46EA-449E-9D9A-797A94025BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECECB39-46EA-449E-9D9A-797A94025BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AECECB39-46EA-449E-9D9A-797A94025BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AECECB39-46EA-449E-9D9A-797A94025BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AD30ABF-7A67-4774-8A61-2F70C5E2FDC1}
+	EndGlobalSection
+EndGlobal
